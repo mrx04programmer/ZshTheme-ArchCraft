@@ -20,5 +20,6 @@ Zsh Theme of ArchCraft..
 ## Result
 ![RESULT](https://imgbox.es/images/2021/06/14/31a4d06c4d4a86d10.png)
 
-Font Text: Nerd Font
-Based: ZSH Cloud & ArchCraft
+###### Notes
+- Font Text: Nerd Font
+- Based: ZSH Cloud & ArchCraft
