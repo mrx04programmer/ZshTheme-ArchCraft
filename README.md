@@ -24,7 +24,7 @@ Zsh Theme of ArchCraft..
 - Font Text: Nerd Font
 - Based: ZSH Cloud & ArchCraft
 
-## Licence
+## License
 
 MIT License
 
