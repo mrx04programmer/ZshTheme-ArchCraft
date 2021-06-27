@@ -9,7 +9,7 @@ Zsh Theme of ArchCraft..
     cd ~/.oh-my-zsh/themes
 #### 2. Download with the command(git): 
     git clone https://github.com/mrx04programmer/ZshTheme-ArchCraft/
-![DOWNLOAD2](https://raw.githubusercontent.com/mrx04programmer/myimages/main/zsh_download.pngg)
+![DOWNLOAD2](https://raw.githubusercontent.com/mrx04programmer/myimages/main/zsh_download.png)
 #### 3. Move the file to directory of themes (command mv):
     mv ZshTheme-ArchCraft/archcraft-dwm.zsh-theme $PWD
 
