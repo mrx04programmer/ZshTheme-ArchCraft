@@ -1,7 +1,7 @@
 # ZshTheme-ArchCraft
 Zsh Theme of ArchCraft..
 ### Picture
-![VIEW](https://raw.githubusercontent.com/mrx04programmer/myimages/main/archcraft1.jpg)
+![imagen](https://user-images.githubusercontent.com/46001898/163757397-1948c6db-86f3-41c4-ab88-d82587ab41a1.png)
 
 
 ## Download
