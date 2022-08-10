@@ -24,4 +24,4 @@ Zsh Theme of ArchCraft..
 - Font Text: Nerd Font
 - Based: ZSH Cloud & ArchCraft
 
-[Starts](https://img.shields.io/github/stars/mrx04programmer/ZshTheme-ArchCraft?logoColor=informational&style=social)
+<img src="https://img.shields.io/github/stars/mrx04programmer/ZshTheme-ArchCraft?logoColor=informational&style=social" at="Starts Repo">
