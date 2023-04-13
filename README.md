@@ -1,5 +1,7 @@
 # ZshTheme-ArchCraft
-Zsh Theme of ArchCraft <img src="https://img.shields.io/github/stars/mrx04programmer/ZshTheme-ArchCraft?logoColor=informational&style=social" at="Starts Repo">
+<img src="https://img.shields.io/github/stars/mrx04programmer/ZshTheme-ArchCraft?logoColor=informational&style=social" at="Starts Repo">
+
+
 ### Picture
 ![imagen](https://user-images.githubusercontent.com/46001898/163757397-1948c6db-86f3-41c4-ab88-d82587ab41a1.png)
 
